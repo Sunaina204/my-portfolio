@@ -31,7 +31,7 @@ button.navbar-toggler {
 .name {
   font-weight: 600;
   font-size: 30px;
- color : #fff;
+  color : #fff;
 }
 .name:hover {
  color : #fff;
@@ -238,9 +238,7 @@ img.skill-img1 {
 }
 /* Tablets & below */
 @media (max-width: 768px) {
-  .name {
-    font-size: 24px;
-  }
+  
   .nav-links::before {
     display: none;
   }
