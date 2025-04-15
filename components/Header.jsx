@@ -11,7 +11,7 @@ function Header() {
   return (
     <Navbar expand="lg" className="header-bg">
       <Container>
-        <Navbar.Brand className="logo">Sunaina.</Navbar.Brand>
+        <Navbar className="logo">Sunaina.</Navbar>
         <Navbar.Toggle aria-controls="navbarScroll" /> {/* This is the toggle button */}
         <Navbar.Collapse id="navbarScroll">
           <Nav className="mx-auto pos">
