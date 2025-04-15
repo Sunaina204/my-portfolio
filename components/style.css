@@ -28,12 +28,12 @@ button.navbar-toggler {
 .nav-links:hover {
   color: #ce397d;
 }
-.name {
+.logo{
   font-weight: 600;
   font-size: 30px;
   color : #fff;
 }
-.name:hover {
+.log:hover {
  color : #fff;
 }
 
