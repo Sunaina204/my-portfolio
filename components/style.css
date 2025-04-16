@@ -4,7 +4,7 @@
 .itemss {
   justify-content: center;
 }
-a{
+.cv-btn1{
   text-decoration: none;
 }
 .header-bg {
@@ -73,7 +73,7 @@ button.navbar-toggler {
   background-color: #214462;
   border: 2px solid;
 }
- .cv-btn a{
+ a.cv-btn {
   text-decoration: none;
 }
 .cv-btn:hover {
