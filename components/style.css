@@ -73,7 +73,7 @@ button.navbar-toggler {
   background-color: #214462;
   border: 2px solid;
 }
-a .cv-btn{
+ .cv-btn a{
   text-decoration: none;
 }
 .cv-btn:hover {
