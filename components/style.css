@@ -4,10 +4,14 @@
 .itemss {
   justify-content: center;
 }
+a{
+  text-decoration: none;
+}
 .header-bg {
   background-color: #214462;
   color: #ce397d;
 }
+
 button.navbar-toggler {
   background: white;
 }
@@ -119,9 +123,7 @@ button.navbar-toggler {
 .content-box span {
   color: #214462;
 }
-a.cv-btn {
-  text-decoration: none;
-}
+
 /* About-section */
 .about-sec {
   padding: 40px 0;

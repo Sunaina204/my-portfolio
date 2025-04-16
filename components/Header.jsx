@@ -31,9 +31,9 @@ function Header() {
               Contact
             </Link>
           </Nav>
-          <button className="cv-btn1">
+          <Link className="cv-btn1" href="/Sunaina_CV.pdf">
             Download CV <DownloadOutlined />
-          </button>
+          </Link>
         </Navbar.Collapse>
       </Container>
     </Navbar>
