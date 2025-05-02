@@ -4,13 +4,13 @@
 .itemss {
   justify-content: center;
 }
-.cv-btn1{
+.cv-btn1 {
   text-decoration: none;
 }
 .header-bg {
   background-color: #214462;
   color: #ce397d;
-  
+
   top: 0;
   width: 100%;
   z-index: 999;
@@ -24,7 +24,6 @@ button.navbar-toggler {
   background: white;
 }
 
-
 .nav-links {
   text-decoration: none;
   color: #fff;
@@ -35,17 +34,17 @@ button.navbar-toggler {
 .nav-links:hover {
   color: #ce397d;
 }
-.logo{
+.logo {
   font-weight: 600;
   font-size: 30px;
-  color : #fff;
+  color: #fff;
 }
 .log:hover {
- color : #fff;
+  color: #fff;
 }
 
 .nav-links {
-  position: relative; 
+  position: relative;
 }
 
 .nav-links::before {
@@ -76,7 +75,7 @@ button.navbar-toggler {
   background-color: #214462;
   border: 2px solid;
 }
- a.cv-btn {
+a.cv-btn {
   text-decoration: none;
 }
 .cv-btn:hover {
@@ -194,7 +193,6 @@ img.skill-img1 {
   background-size: cover;
 }
 .box2 {
- 
   padding: 20px;
   margin: 5px;
   box-shadow: 0 0 11px #ce397d;
@@ -246,7 +244,6 @@ img.skill-img1 {
 }
 /* Tablets & below */
 @media (max-width: 768px) {
-  
   .nav-links::before {
     display: none;
   }
@@ -295,7 +292,17 @@ img.skill-img1 {
     font-size: 20px;
   }
 }
-
+@media (max-width: 1024px) {
+  .content-box {
+    margin-left: 20px;
+}
+  .contact-links h3 {
+    font-size: 30px;
+  }
+  .about-sec{
+    padding: 0;
+  }
+}
 /* Mobile phones */
 @media (max-width: 480px) {
   .nav-links {
@@ -305,13 +312,13 @@ img.skill-img1 {
 
   .content-box {
     text-align: center;
-}
+  }
   .content-box h1 {
     font-size: 32px;
   }
-.content-box p{
-  text-align: justify;
-}
+  .content-box p {
+    text-align: justify;
+  }
   .content-box h2 {
     font-size: 24px;
   }
@@ -335,7 +342,7 @@ img.skill-img1 {
 
   .content {
     text-align: justify;
-}
+  }
 
   .content p {
     font-size: 18px;
