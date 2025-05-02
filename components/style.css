@@ -10,11 +10,14 @@
 .header-bg {
   background-color: #214462;
   color: #ce397d;
-  position: fixed;
+  
   top: 0;
   width: 100%;
   z-index: 999;
   box-shadow: 0 2px 5px;
+}
+nav.header-bg.navbar.navbar-expand.navbar-light {
+  position: fixed;
 }
 
 button.navbar-toggler {
