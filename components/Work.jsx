@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import Image from "next/image";
+
 const Work = () => {
   return (
     <>
