@@ -34,7 +34,7 @@ const HeroSection = () => {
                 working on projects to improve my skills
               </p>
             </div>
-            <Link className="cv-btn" href="/Sunaina_CV.pdf">
+            <Link className="cv-btn" href="/Sunaina_CV1.pdf">
               Download CV <DownloadOutlined />
             </Link>
             <Link href="#work" className="cv-btn">

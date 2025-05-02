@@ -31,7 +31,7 @@ function Header() {
               Contact
             </Link>
           </Nav>
-          <Link className="cv-btn1" href="/Sunaina_CV.pdf">
+          <Link className="cv-btn1" href="/Sunaina_CV1.pdf">
             Download CV <DownloadOutlined />
           </Link>
         </Navbar.Collapse>
