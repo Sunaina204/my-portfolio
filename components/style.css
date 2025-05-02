@@ -16,7 +16,7 @@
   z-index: 999;
   box-shadow: 0 2px 5px;
 }
-nav.header-bg.navbar.navbar-expand.navbar-light {
+nav.header-bg.navbar.navbar-expand-lg.navbar-light {
   position: fixed;
 }
 
