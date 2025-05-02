@@ -302,6 +302,9 @@ img.skill-img1 {
   .about-sec{
     padding: 0;
   }
+  .contact-links h3 {
+    font-size: 25px;
+}
 }
 /* Mobile phones */
 @media (max-width: 480px) {
