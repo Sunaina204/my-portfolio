@@ -9,7 +9,7 @@ import Navbar from "react-bootstrap/Navbar";
 
 function Header() {
   return (
-    <Navbar className="header-bg">
+    <Navbar expand="lg" className="header-bg">
       <Container>
         <Navbar className="logo">Sunaina.</Navbar>
         <Navbar.Toggle aria-controls="navbarScroll" /> {/* This is the toggle button */}
