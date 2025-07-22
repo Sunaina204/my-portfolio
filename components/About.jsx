@@ -15,7 +15,7 @@ const About = () => {
               Hello! I'm Sunaina, a frontend developer with a love for clean
               design and interactive web experiences. I work with technologies
               like HTML, CSS, JavaScript, React, and Next.js. After completing a
-              4-month course, I built projects like a weather app and a news
+              5-month course, I built projects like a weather app and a news
               site using APIs. I also enjoy working with WordPress and Photoshop
               to bring ideas to life visually. Right now, I’m focused on
               sharpening my skills and building a portfolio that reflects my
